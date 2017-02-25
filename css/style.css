@@ -2,7 +2,7 @@
 * @Author: 劲博
 * @Date:   2017-02-25 01:11:44
 * @Last Modified by:   劲博
-* @Last Modified time: 2017-02-25 14:43:20
+* @Last Modified time: 2017-02-25 16:23:18
 */
 *{
 	margin: 0px;
@@ -45,6 +45,7 @@ form{
 	font-size: 20px;
 	color: #dbdbdb;
 	font-family: 'YaHei';
+
 }
 
 .submit{
@@ -63,8 +64,6 @@ form{
 	background-color: rgba(0,0,0,0.2);
 	border: 0px solid rgba(0,0,0,0.3);
 	position: absolute;
-	top: 36.7%;
-	right: 30.75%;
 	display: none;
 }
 .suggest ul{
@@ -77,8 +76,8 @@ form{
 	line-height: 35px;
 	cursor: pointer;
 	list-style: none;
+	color: #dbdbdb;
 }
 .suggest ul li:hover{
-	color: #dbdbdb ;
 	background-color: rgba(0,0,0,0.5);
 }
