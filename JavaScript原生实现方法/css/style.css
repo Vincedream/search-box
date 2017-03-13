@@ -2,7 +2,7 @@
 * @Author: 劲博
 * @Date:   2017-02-25 01:11:44
 * @Last Modified by:   劲博
-* @Last Modified time: 2017-02-26 18:34:49
+* @Last Modified time: 2017-03-11 20:44:25
 */
 *{
 	margin: 0px;
@@ -14,8 +14,6 @@ body{
 	background-size:100% 100%;
 	overflow:hidden;
 	background-repeat: no-repeat;
-	
-	
 }
 .search-box{
 	height: 80px;
